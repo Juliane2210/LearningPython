@@ -1,0 +1,81 @@
+>>> # test Q1
+>>> aireDuTriangle(20,20)
+200.0
+>>> aireDuTriangle(40.5, 30.3)
+613.575
+
+
+
+
+>>> # test Q2
+>>> aireDuTrianglePrint()
+SVP entrez la valeur de la base: 20
+SVP entrez la valeur de la hauteur: 20
+Un triangle de base  20.0  et hauteur 20.0  a l'aire  200.0
+
+
+>>> # test Q2
+>>> aireDuTrianglePrint()
+SVP entrez la valeur de la base: 40.5
+SVP entrez la valeur de la hauteur: 30.3
+Un triangle de base  40.5  et hauteur 30.3  a l'aire  613.575
+
+
+>>> # test Q3
+>>> loEnKilos(5, 3)
+2.3530104194241654
+>>> loEnKilos(6.8, 3.3)
+3.177981542379628
+
+
+>>> # test Q4
+>>>  bibformat(Antoine de Saint Exupery, Le petit prince, Paris, Jeunesse, 1943)
+Antoine de Saint Exupery (1943). Le petit prince. Paris: Jeunesse
+
+
+
+>>> # test Q5
+>>> bibformatPrint()
+SVP entez l'auteur: Antoine de Saint Exupery
+SVP entez le titre: Le petit prince
+SVP entez la ville: Paris
+SVP entez la maison d'edition: Jeunesse
+SVP entez l'annee de publication: 1943
+Antoine de Saint Exupery (1943). Le petit prince Paris: Jeunesse
+
+
+>>> # test Q6
+>>> funct(10)
+La solution est 0.0
+0.0
+>>> funct(49)
+La solution est 6.244997998398398
+6.244997998398398
+>>> funct(59)
+La solution est 7.0
+7.0
+
+
+>>> # test Q7
+>>> magique(303)
+False
+>>> magique(330)
+True
+>>> magique(133)
+True
+>>> magique(712)
+False
+>>> magique(128)
+True
+
+
+>>> # test Q8
+>>> numMonnaies(1.56)
+6 pieces de 25 cents, 0 pieces de 10 cents, 1 pieces de 5 cents, 1 pieces de 1 cent
+8
+>>> numMonnaies(1.42)
+5 pieces de 25 cents, 1 pieces de 10 cents, 1 pieces de 5 cents, 2 pieces de 1 cent
+9
+>>> numMonnaies(1)
+4 pieces de 25 cents, 0 pieces de 10 cents, 0 pieces de 5 cents, 0 pieces de 1 cent
+4

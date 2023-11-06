@@ -1,0 +1,168 @@
+
+
+
+# Q1 
+
+>>> somme_diviseurs_impaires(-9)
+13
+>>> somme_diviseurs_impaires(0)    
+None
+>>> somme_diviseurs_impaires(2)    
+1
+>>> somme_diviseurs_impaires(3)    
+4
+>>> somme_diviseurs_impaires(7)    
+8
+>>>  omme_diviseurs_impaires(-2001)
+2880
+
+
+
+
+# Q2
+>>> somme_de_serie()
+SVP entrez un entier pas negatif: -10
+None
+>>> somme_de_serie()
+SVP entrez un entier pas negatif: 0
+1000
+>>> somme_de_serie()
+SVP entrez un entier pas negatif: 5
+1001.463611111111
+
+
+
+# Q3
+>>> somme_liste_div2([1, 4, 3, 8, 5])
+12
+>>> somme_liste_div2([])
+0
+>>> somme_liste_div2([4, -10, 7])
+-6
+
+
+# Q4
+>>> countMembers("\\")
+1
+>>> countMembers("2'")
+1
+>>> countMembers("2aAb3?eE'_13")
+4
+>>> countMembers("one, Two")
+3
+
+
+
+
+
+
+# Q5
+>>> nombre("251")
+251
+>>> nombre("1 abc 340")
+
+>>> nombre("1 250")
+1250
+>>> nombre("-97 500")
+-97500
+>>> nombre("1 000 001")
+1000001
+>>> nombre("999 999 100 102")
+999999100102
+>>> nombre("")
+0
+
+
+
+
+# Q6
+
+>>> alienNumbers("a!ya!U!NaU")
+1095
+>>> alienNumbers("aaaUUU")
+129
+>>> alienNumbers("")
+0
+
+
+# Q7
+
+>>> alienNumbers("a!ya!U!NaU")
+1095
+>>> alienNumbers("aaaUUU")
+129
+>>> alienNumbers("")
+0
+
+
+# Q8
+
+>>> encrypt("Hello, world")
+dHlerlolwo ,
+>>> encrypt("1234")
+4132
+>>> encrypt("12345")
+51423
+>>> encrypt("1")
+1
+>>> encrypt("123")
+312
+>>> encrypt("12")
+21
+>>> encrypt("Secret Message")
+eSgeacsrseetM 
+>>> encrypt(",'4'r")
+r,''4
+
+
+# Q9
+
+>>> weaveop("aa")
+aopa
+>>> weaveop("aB")
+aoPB
+>>> weaveop("ooo")
+oopoopo
+>>> weaveop("ax1")
+aopx1
+>>> weaveop("abcdef22")
+aopbopcopdopeopf22
+>>> weaveop("abcdef22x")
+aopbopcopdopeopf22x
+>>> weaveop("aBCdef22x")
+aoPBOPCOpdopeopf22x
+>>> weaveop("x")
+x
+>>> weaveop("123456")
+123456
+
+
+
+# Q10
+
+>>> squarefree("ana")
+True
+>>> squarefree("borborygmus")
+False
+>>> squarefree("abracadabra")
+True
+>>> squarefree("repetitive")
+False
+>>> squarefree("zrtzghtghtghtq")
+False
+>>> squarefree("gaga")
+False
+>>> squarefree("repetitive ")
+False
+>>> squarefree("")
+True
+>>> squarefree("a")
+True
+>>> squarefree("zrtzghtghtghtq")
+False
+>>> (squarefree("abcab")
+True
+>>> squarefree("12341341")
+False
+>>> squarefree("44")
+False
