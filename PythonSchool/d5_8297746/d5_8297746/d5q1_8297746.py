@@ -1,6 +1,6 @@
 # Juliane Bruck
 # Devoir 5 -Question 1
-# 8297746
+
 
 inventory = {"bureau": 9, "chaise": 25, "imprimante": 46, "scanneur": 17}
 prices = {"bureau": 75.9, "chaise": 50.9, "imprimante": 32.5, "scanneur": 28.0}
