@@ -1,7 +1,6 @@
 
 # Lab 9
 # Juliane Bruck
-# 8297746
 
 
 import random
