@@ -1,6 +1,6 @@
 
 # Juliane Bruck
-# 8297746
+
 # Lab11
 #
 # Excercice #1
