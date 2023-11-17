@@ -1,6 +1,6 @@
 # Devoir 4 - Question 3
 # Juliane Bruck
-# 8297746
+
 
 # Cette fct retourne la longueur de la plus grande sequence d'elements consecutifs egaux de la liste 'numberList' (liste de int)
 # Elle compare les entrees consecutives avec deux boucles for  (premier index est i et deuxieme index est j=i+1)
