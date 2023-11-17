@@ -1,7 +1,6 @@
 # Test 1
 # Juliane Bruck
-# Numero etudiant:8297746
-#
+
 
 # 1
 # Contrat de la fonction:
