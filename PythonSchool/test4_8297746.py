@@ -8,7 +8,7 @@ De plus, je ne fournirai aucune assistance aux autres.
 # AJOUTEZ VOTRE NOM ET NUMERO D'ETUDIANT ICI
 # pour confirmer que vous etes d'accord avec la declaration ci-dessus et avec les regles decrites dans TEST 2
 # NOM: Juliane Bruck
-# NUMERO D'ETUDIANT: 8297746
+# NUMERO D'ETUDIANT: -------
 
 #########################
 # QUESTION 1
