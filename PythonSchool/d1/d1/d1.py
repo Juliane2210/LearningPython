@@ -1,5 +1,5 @@
 # Juliane Bruck
-#8297746
+
 #Devoir 1
 
 #Exécuter avec "python -i d1.py"
