@@ -4,7 +4,7 @@
 
 # Devoir 4 - Question 4
 # Juliane Bruck
-# 8297746
+
 
 
 def is_valid_file_name():
