@@ -1,5 +1,5 @@
 # Juliane Bruck
-# 8297746
+
 # Devoir 6
 
 # Q2 - A
