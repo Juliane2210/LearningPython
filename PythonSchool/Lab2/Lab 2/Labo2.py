@@ -1,4 +1,4 @@
-# Juliane Bruck, 8297746, ITI-1520
+# Juliane Bruck, ITI-1520
 
 
 #1. division de deux entiers
