@@ -1,8 +1,6 @@
 # Juliane Bruck
 # Labo 8
-# 8297746
-# j'ai fait les exercices dans un fichier a part...donc je ne demande pas a lutilisateur
-# d'entrer les matrices...j'espere que c'est correct (les fonctions fonctionnent quand meme j'ai verifie)
+
 
 # Q1
 # on creer une matrice vide de bonnes dimmensions, avant de la remplir
