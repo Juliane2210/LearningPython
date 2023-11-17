@@ -1,11 +1,11 @@
 # Comments
 # Student name: Juliane Bruck
-# Student number: 8297746
+# Student number: ---------
 # This program prints a message
 
 
 student = "Juliane"
-studentID = 8297746
+studentID = 11111111
 
 print("Bonjour %s - %i" % (student, studentID))
 
