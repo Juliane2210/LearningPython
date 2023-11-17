@@ -1,6 +1,5 @@
 # Juliane Bruck
-# 8297746
-# Blessed
+
 # Labo 3
 
 
