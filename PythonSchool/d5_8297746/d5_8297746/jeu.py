@@ -1,7 +1,7 @@
 ﻿
 # Juliane Bruck
 # Devoir5- jeu
-# 8297746
+
 
 
 def verifierLigne(grille, row, num):
