@@ -1,7 +1,7 @@
 
 # Devoir 4- Question 1
 # Juliane Bruck
-# 8297746
+
 
 # Cette fct retourne le nombre total d'elements qui sont divisibles par n donne ('divisor' -> int)
 # dans la liste de nombres donnee ('numberList'->liste de int)
