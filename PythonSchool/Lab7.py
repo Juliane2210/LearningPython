@@ -1,7 +1,7 @@
 
 # Labo 7
 # Juliane Bruck
-# numero etudiant: 8297746
+
 # Tuples et dictionnaires
 #
 #  Q1
