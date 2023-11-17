@@ -1,6 +1,6 @@
 # Devoir 4 - Question 2
 # Juliane Bruck
-# 8297746
+
 
 # Cette fct retourne True si il n'y a pas deux nombres consecutifs dans la liste ('numberList'->liste de float)
 # Elle compare les entrees consecutives soient ' item1'  (float) et ' item2' (float) a l'aide d' une boucle for
